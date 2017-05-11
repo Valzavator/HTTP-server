@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/valzavator/progbase2/labs/lab8/HTTP-server/build",
+  "command": "/usr/bin/c++    -std=c++11 -Werror -Wall -g -I/home/valzavator/progbase2/labs/lab8/HTTP-server/include    -o CMakeFiles/https_server.dir/main.cpp.o -c /home/valzavator/progbase2/labs/lab8/HTTP-server/main.cpp",
+  "file": "/home/valzavator/progbase2/labs/lab8/HTTP-server/main.cpp"
+},
+{
+  "directory": "/home/valzavator/progbase2/labs/lab8/HTTP-server/build",
+  "command": "/usr/bin/c++    -std=c++11 -Werror -Wall -g -I/home/valzavator/progbase2/labs/lab8/HTTP-server/include    -o CMakeFiles/https_server.dir/src/http_server.cpp.o -c /home/valzavator/progbase2/labs/lab8/HTTP-server/src/http_server.cpp",
+  "file": "/home/valzavator/progbase2/labs/lab8/HTTP-server/src/http_server.cpp"
+},
+{
+  "directory": "/home/valzavator/progbase2/labs/lab8/HTTP-server/build",
+  "command": "/usr/bin/c++    -std=c++11 -Werror -Wall -g -I/home/valzavator/progbase2/labs/lab8/HTTP-server/include    -o CMakeFiles/https_server.dir/src/song.cpp.o -c /home/valzavator/progbase2/labs/lab8/HTTP-server/src/song.cpp",
+  "file": "/home/valzavator/progbase2/labs/lab8/HTTP-server/src/song.cpp"
+},
+{
+  "directory": "/home/valzavator/progbase2/labs/lab8/HTTP-server/build",
+  "command": "/usr/bin/c++    -std=c++11 -Werror -Wall -g -I/home/valzavator/progbase2/labs/lab8/HTTP-server/include    -o CMakeFiles/https_server.dir/src/request.cpp.o -c /home/valzavator/progbase2/labs/lab8/HTTP-server/src/request.cpp",
+  "file": "/home/valzavator/progbase2/labs/lab8/HTTP-server/src/request.cpp"
+}
+]
