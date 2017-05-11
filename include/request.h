@@ -1,3 +1,7 @@
+/** @file
+    @class - describes a Request
+*/
+
 #ifndef REQUEST_H
 #define REQUEST_H
 
